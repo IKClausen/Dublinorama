@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+
+.container{
+  margin-bottom: 5%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand{
+  margin-left: 5%;
+  font-family: sans-serif;
+  color: white;
+  font-weight: bold; 
+}
+
+#navbarSupportedContent{
+  display: flex;
+  float: right;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title{
+  text-align: center; 
+  margin-top: 25px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+   padding: 10px; 
+   background-color: #222;
+}
+
+
+/* Styling gallery and making sure sizing is set to greater than or equal to minimun
+and less than or equal to max in this case using a fixed breadth and value - Use of grids to format gallery */ 
+.gallery{
+  display: grid; 
+  font-family: 'Poppins'; 
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 5px; 
+}
+
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.gallery-item{
+  padding: 10px;
+}
+
+/* auto margin so images more responsive */ 
+.gallery-item{
+	display: grid;
+	margin: 0 auto;
+}
+
+label{
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

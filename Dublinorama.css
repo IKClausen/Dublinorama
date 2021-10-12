@@ -1,0 +1,194 @@
+.body{
+	
+	margin-bottom: 0px;
+	
+}
+
+.container{
+	margin-bottom: 8%;
+}
+
+.navbar-brand{
+	margin-left: 5%;
+	
+}
+
+.header{
+	margin-bottom: 2%;
+	text-align: center;
+	font-size: 3rem;
+	font-weight: bold;
+	color: #3D3CE7;
+}
+
+.videofooter{
+	margin: 1%;
+	text-align: center;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+.concert-image1{
+
+	position: relative;
+	left: 10%;
+	height: auto;
+	width: 81.31%;
+	
+	}
+	
+.concert-image2{
+	
+	position: relative;
+	right: 5%;
+	height: auto;
+	width: 139.39%;
+
+}
+
+.concert-image3{
+	
+	position: relative;
+	left: 25%;
+	height: auto;
+	width: 68.99%;
+
+}
+
+.navbar-brand{
+	
+	
+	font-family: sans-serif;
+	color: white;
+	font-weight: bold;
+
+}
+
+.menu{
+	float: right;
+	
+}
+
+.images{
+	margin-top: 10%;
+	
+	
+}
+
+ul {
+	list-style-type: none;
+	
+	
+	
+}
+
+#navbarSupportedContent{
+	display: flex;
+	float: right;
+}
+
+#testimonials{
+	padding: 1.5% 15%;
+	text-align: center;
+	
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+  
+}
+
+.testimonial-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+
+.colored-section{
+	background-color: #222222;
+	color: #fff;
+	margin-top: 10%;
+	margin-bottom: 0%;
+	padding-bottom: 0px;
+	
+
+}
+
+
+.social icon{
+	margin: auto;
+	max-width: 800px;
+	
+}
+
+.upcomingevents{
+	
+	text-align: center;
+	margin-top: 5%;
+}
+
+.concerts{
+	margin: 1% 3% 0%;
+	width:83%;
+}
+
+
+.band1{
+
+}
+
+.band2{
+
+	margin-top: 5%;
+	}
+
+.band3{
+
+	margin-top: 5%;
+	
+	}
+	
+.text{
+	text-align: center;
+}
+
+.quantity{
+	margin-bottom: 3%
+}
+
+#buytickets{
+	text-align: center;
+	margin: auto;
+}
+
+#totalprice{
+	color: green;
+	font-weight: bold;
+}
+
+#moreinfo, #readmorebtn {
+  padding: 5px;
+  text-align: center;
+  display: grid;
+  margin: auto;
+  
+  
+}
+
+#moreinfo {
+  padding: 50px;
+  display: none;
+  background-color: #222222;
+  color: #fff;
+  font-size: 1.5rem;
+  text-justify: center;
+  width: 80%;
+  line-height: 2;
+  border-radius: 25px;
+  
+}
+
+p{
+	margin-bottom: 0px;
+	padding: 0px;
+}
